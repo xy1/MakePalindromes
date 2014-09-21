@@ -21,7 +21,7 @@ for ($i = 0; $i < $word_count; $i++) {
 $words = $temp_words;
 $word_count = count($words);
 
-for ($i = 0; $i < $word_count; $i++) {
+for ($i = 0; $i < $word_count; $i++) {  // iterate word list
         $this_word = $words[$i];
         
         $search_for_word = strrev($this_word);
