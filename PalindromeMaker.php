@@ -7,7 +7,7 @@
  */
 
 /* Load word list from text file into array */
-$words = file('EnglishWordsList.txt');
+$words = file('WordsList.txt');
 /* clean up words */
 $words = array_map('strtolower', $words);
 $words = array_map('trim', $words);
