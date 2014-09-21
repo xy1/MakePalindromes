@@ -18,7 +18,8 @@ $words = file('WordsList.txt');
 $word_count = count($words);
 for ($i = 0; $i < $word_count; $i++) {
         $words[$i] = trim(strtolower($words[$i]));  // trim and convert to lower case
-        if (strlen($words[$i]) <= constant('MAX_WORD_LENGTH') && $words[$i])  // remove lengthy words to improve performance
+        /* remove lengthy words to improve performance */
+        if (strlen($words[$i]) <= constant('MAX_WORD_LENGTH') && $words[$i]) 
                 $temp_words[] = $words[$i];
 }
 $words = $temp_words;
