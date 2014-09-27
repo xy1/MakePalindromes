@@ -10,15 +10,15 @@ The results of typical fast runs (limiting to a few short words) are plentiful..
 sensible.  Below are some of the "better" ones from a quick run.  (My laptop fan grinds from overheating if I run
 the scripts too long.)
 
-...yay bob yay
-...doc did cod
-...dad gag dad
-...to pee pot
-...able Melba
-...amoral aroma
-...ammo momma
-...amen enema
-...ate feta
-...a gas saga
-...a lag gala
-...a tad data
+yay bob yay..
+doc did cod..
+dad gag dad..
+to pee pot..
+able Melba..
+amoral aroma..
+ammo momma..
+amen enema..
+ate feta..
+a gas saga..
+a lag gala..
+a tad data..
